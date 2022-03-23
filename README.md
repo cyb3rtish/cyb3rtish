@@ -17,7 +17,7 @@
 
 
 # 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... AI Automation/Python/Security 
+- 🌱 I’m currently learning ... AI/Automation/Python/Security 
 - 💬 Ask me about ... CYSA
 - ⚡ Fun fact: ... I am an AWS Builder
 ### :hammer_and_wrench: Languages and Tools :
