@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on ... 
+# 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... AI Automation/Python/Security 
 - 💬 Ask me about ... CYSA
 - ⚡ Fun fact: ... I am an AWS Builder
